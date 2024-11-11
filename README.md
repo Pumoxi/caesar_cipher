@@ -14,7 +14,7 @@ This program lets users encode or decode messages with a Caesar Cipher, which sh
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/caesar-cipher-tool.git
+    git clone git@github.com:Pumoxi/caesar_cipher.git
     cd caesar-cipher-tool
     ```
 
